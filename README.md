@@ -1,5 +1,13 @@
 # Day 8 — RAG Pipeline
 
+## Thông tin học viên
+- **Họ và tên:** Lê Minh Hiếu
+- **Mã học viên:** 2A202602848
+- **GitHub:** HieuLM7714
+- **Đề tài:** Hệ thống RAG Tra cứu Quy chế đào tạo & Dịch vụ sinh viên Ký túc xá ĐHQG-HCM
+- **Báo cáo cá nhân:** [reports/2A202602848-HieuLM.md](reports/2A202602848-HieuLM.md)
+- **Báo cáo đánh giá (A/B & Metrics):** [group_project/evaluation/RESULT.md](group_project/evaluation/RESULT.md)
+
 ## Mục tiêu
 
 Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài liệu do nhóm thu thập. Sản phẩm phải có hybrid retrieval, citation, giao diện chat và báo cáo đánh giá.

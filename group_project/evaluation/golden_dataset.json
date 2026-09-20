@@ -1,0 +1,83 @@
+[
+  {
+    "question": "Tân sinh viên cần thực hiện các bước nào để đăng ký nội trú tại Ký túc xá ĐHQG-HCM?",
+    "expected_answer": "Tân sinh viên truy cập cổng thông tin của Ký túc xá, chọn mục đăng ký mới, điền đầy đủ thông tin cá nhân, chọn loại phòng và tòa nhà mong muốn, tải lên các giấy tờ minh chứng được yêu cầu và nộp hồ sơ trực tuyến theo thời gian thông báo.",
+    "expected_context": "Hướng dẫn đăng ký mới cho tân sinh viên: Sinh viên đăng nhập vào hệ thống đăng ký của KTX, kiểm tra thông tin cá nhân, chọn cụm nhà/phòng ở và gửi yêu cầu đăng ký nội trú theo lịch phân bổ của ban quản lý."
+  },
+  {
+    "question": "Làm thế nào để sinh viên nội trú tra cứu thông tin thẻ Bảo hiểm Y tế (BHYT)?",
+    "expected_answer": "Sinh viên đăng nhập vào cổng thông tin KTX hoặc ứng dụng VssID, nhập mã số sinh viên hoặc mã thẻ BHYT để kiểm tra thời hạn sử dụng, thông tin nơi khám chữa bệnh ban đầu và trạng thái đóng phí BHYT.",
+    "expected_context": "Hướng dẫn tra cứu thông tin BHYT: Sinh viên tra cứu tình trạng đóng BHYT, thời hạn thẻ và cơ sở khám chữa bệnh ban đầu qua cổng thông tin sinh viên hoặc ứng dụng bảo hiểm xã hội số."
+  },
+  {
+    "question": "Quy trình sinh viên thực hiện đăng ký tham gia hoạt động tại Ký túc xá gồm những bước nào?",
+    "expected_answer": "Sinh viên vào mục Hoạt động trên ứng dụng hoặc website KTX, chọn hoạt động muốn tham gia, xem kỹ điều kiện và thời gian, nhấn Đăng ký và điểm danh khi tham gia để được ghi nhận điểm rèn luyện.",
+    "expected_context": "Hướng dẫn đăng ký hoạt động: Sinh viên truy cập vào danh mục hoạt động phong trào, chọn sự kiện phù hợp, xác nhận đăng ký và tham gia điểm danh thực tế để tích lũy điểm rèn luyện nội trú."
+  },
+  {
+    "question": "Sinh viên thực hiện khảo sát ý kiến tại Ký túc xá theo quy trình như thế nào?",
+    "expected_answer": "Sinh viên đăng nhập vào tài khoản cá nhân, chọn mục Khảo sát đang diễn ra, trả lời đầy đủ các câu hỏi khảo sát về cơ sở vật chất, an ninh trật tự và dịch vụ KTX, sau đó nhấn Gửi khảo sát.",
+    "expected_context": "Hướng dẫn thực hiện khảo sát: Sinh viên tham gia trả lời các biểu mẫu khảo sát chất lượng dịch vụ định kỳ trên hệ thống, hoàn thành tất cả các mục đánh giá bắt buộc và bấm hoàn tất."
+  },
+  {
+    "question": "Thủ tục trả phòng Ký túc xá yêu cầu sinh viên thực hiện những công việc gì?",
+    "expected_answer": "Sinh viên nộp đơn đăng ký trả phòng trực tuyến, dọn dẹp vệ sinh phòng ở, liên hệ trưởng nhà/ban quản lý để kiểm kê và bàn giao tài sản, thanh toán các khoản chi phí phát sinh nếu có và nhận lại tiền thế chân theo quy định.",
+    "expected_context": "Hướng dẫn trả phòng: Sinh viên gửi đơn đề nghị trả phòng trước thời hạn quy định, phối hợp với nhân viên quản lý nhà kiểm tra hiện trạng phòng và tài sản, ký biên bản bàn giao và hoàn tất thủ tục tài chính."
+  },
+  {
+    "question": "Mục đích của việc đánh giá kết quả rèn luyện của sinh viên nội trú Ký túc xá là gì?",
+    "expected_answer": "Nhằm đánh giá ý thức chấp hành nội quy, quy chế, tinh thần tham gia các hoạt động tập thể và nếp sống văn minh đô thị của sinh viên nội trú; làm căn cứ xét lưu trú cho các năm học tiếp theo và khen thưởng, kỷ luật.",
+    "expected_context": "Đánh giá kết quả rèn luyện của sinh viên nội trú nhằm nâng cao ý thức tự giác, chấp hành nội quy, quy định của Ký túc xá và làm cơ sở bình xét khen thưởng, lưu trú năm học tiếp theo."
+  },
+  {
+    "question": "Kết quả rèn luyện của sinh viên nội trú Ký túc xá được phân loại thành các mức nào?",
+    "expected_answer": "Kết quả rèn luyện được phân thành 5 loại: Xuất sắc, Tốt, Khá, Trung bình và Yếu theo thang điểm 100.",
+    "expected_context": "Điểm rèn luyện của sinh viên được phân loại: Xuất sắc (90-100 điểm), Tốt (80-89 điểm), Khá (65-79 điểm), Trung bình (50-64 điểm) và Yếu (dưới 50 điểm)."
+  },
+  {
+    "question": "Hành vi nào tại Ký túc xá bị trừ điểm rèn luyện hoặc xem xét kỷ luật nghiêm khắc?",
+    "expected_answer": "Các hành vi vi phạm như sử dụng chất cấm, cờ bạc, mang chất dễ cháy nổ vào phòng, gây gổ đánh nhau, cho người lạ vào phòng ở qua đêm mà không đăng ký, vi phạm quy định giờ giấc và trật tự an ninh.",
+    "expected_context": "Các hành vi vi phạm nội quy an ninh trật tự, sử dụng chất kích thích, cờ bạc, nấu ăn trái phép trong phòng, tiếp khách qua đêm sai quy định sẽ bị trừ điểm rèn luyện nặng và áp dụng hình thức kỷ luật từ khiển trách đến buộc rời khỏi KTX."
+  },
+  {
+    "question": "Theo quy chế đào tạo đại học ĐHQG-HCM, một tín chỉ được tính tương đương với bao nhiêu giờ học tập?",
+    "expected_answer": "Một tín chỉ được quy định tương đương với 15 tiết học lý thuyết; hoặc 30 - 45 tiết thực hành, thí nghiệm, thảo luận; hoặc 45 - 90 giờ thực tập tại cơ sở; kèm theo tối thiểu 30 giờ tự học của sinh viên.",
+    "expected_context": "Quy định về tín chỉ: Một tín chỉ tương đương 15 tiết học lý thuyết; 30 đến 45 tiết thực hành, thí nghiệm hoặc thảo luận; 45 đến 90 giờ thực tập tại cơ sở; làm tiểu luận, bài tập lớn, đồ án hoặc khóa luận tốt nghiệp. Mỗi tín chỉ lý thuyết đòi hỏi ít nhất 30 giờ chuẩn bị cá nhân."
+  },
+  {
+    "question": "Điều kiện để sinh viên được công nhận tốt nghiệp đại học theo quy chế của ĐHQG-HCM là gì?",
+    "expected_answer": "Sinh viên tích lũy đủ số tín chỉ quy định của chương trình đào tạo, điểm trung bình chung tích lũy đạt từ 2.00 trở lên (thang 4), đạt chuẩn đầu ra ngoại ngữ, tin học, có chứng chỉ Giáo dục thể chất và Giáo dục quốc phòng - an ninh, và không đang trong thời gian bị kỷ luật.",
+    "expected_context": "Điều kiện xét tốt nghiệp: Tích lũy đủ số học phần và khối lượng tín chỉ của CTĐT; Điểm trung bình chung tích lũy của toàn khóa học đạt từ 2.00 trở lên; Đạt chuẩn trình độ ngoại ngữ, tin học; Có chứng chỉ Giáo dục quốc phòng - an ninh và Giáo dục thể chất; Tại thời điểm xét không bị truy cứu trách nhiệm hình sự."
+  },
+  {
+    "question": "Thang điểm đánh giá học phần theo hệ thống tín chỉ được quy đổi như thế nào giữa thang điểm 10, thang điểm chữ và thang điểm 4?",
+    "expected_answer": "Điểm chữ gồm: A (8.5-10.0 tương đương 4.0), B (7.0-8.4 tương đương 3.0), C (5.5-6.9 tương đương 2.0), D (4.0-5.4 tương đương 1.0) và F (dưới 4.0 tương đương 0.0, không đạt).",
+    "expected_context": "Quy đổi thang điểm đánh giá: Điểm học phần được đánh giá theo thang điểm 10, sau đó quy đổi sang điểm chữ (A, B, C, D, F) và thang điểm 4 tương ứng để tính điểm trung bình tích lũy: A (4.0), B (3.0), C (2.0), D (1.0), F (0.0)."
+  },
+  {
+    "question": "Sinh viên bị cảnh báo kết quả học tập trong những trường hợp nào theo quy chế đào tạo?",
+    "expected_answer": "Sinh viên bị cảnh báo học tập khi có điểm trung bình học kỳ dưới mức quy định (ví dụ dưới 1.00 cho học kỳ đầu, dưới 1.20 cho các kỳ tiếp theo), hoặc điểm trung bình tích lũy dưới 1.50 - 1.80 tùy theo năm học, hoặc nợ quá số tín chỉ cho phép.",
+    "expected_context": "Cảnh báo học tập được thực hiện theo từng học kỳ khi điểm trung bình chung học kỳ đạt dưới 1.00 đối với học kỳ đầu tiên, dưới 1.20 đối với các học kỳ tiếp theo, hoặc điểm trung bình tích lũy quá thấp theo tiến độ đào tạo."
+  },
+  {
+    "question": "Sinh viên có được phép học cải thiện điểm đối với các học phần đã đạt không?",
+    "expected_answer": "Sinh viên được phép đăng ký học lại để cải thiện điểm đối với các học phần có điểm chữ D hoặc C (tùy quy định cụ thể của từng trường). Điểm học phần cao nhất trong các lần học sẽ được ghi nhận vào bảng điểm tích lũy.",
+    "expected_context": "Học cải thiện điểm: Sinh viên được đăng ký học lại các học phần đã đạt điểm D hoặc D+ (hoặc C tùy cơ sở đào tạo) để nâng cao điểm trung bình chung tích lũy. Điểm cao nhất sau các lần học sẽ được lấy để tính điểm tốt nghiệp."
+  },
+  {
+    "question": "Thời gian tối đa để hoàn thành chương trình đào tạo đại học đối với sinh viên chính quy là bao lâu?",
+    "expected_answer": "Thời gian tối đa để sinh viên hoàn thành khóa học thường không vượt quá 2 lần thời gian thiết kế tiêu chuẩn của chương trình đào tạo (ví dụ chương trình 4 năm thì tối đa là 8 năm).",
+    "expected_context": "Thời gian đào tạo: Thời gian tối đa để sinh viên hoàn thành chương trình không quá 2 lần thời gian theo kế hoạch học tập chuẩn toàn khóa đối với chương trình 4 đến 5 năm."
+  },
+  {
+    "question": "Sinh viên vắng mặt trong buổi thi kết thúc học phần không có lý do chính đáng sẽ bị xử lý như thế nào?",
+    "expected_answer": "Sinh viên vắng thi không có lý do chính đáng phải nhận điểm 0 (không) cho kỳ thi đó và học phần bị đánh giá điểm F, phải đăng ký học lại học phần này.",
+    "expected_context": "Sinh viên vắng mặt trong kỳ thi kết thúc học phần nếu không có lý do chính đáng được coi như không tham gia kỳ thi và nhận điểm 0 cho phần thi kết thúc học phần, học phần nhận điểm F."
+  },
+  {
+    "question": "Chính sách ưu tiên xét nội trú Ký túc xá áp dụng cho những đối tượng sinh viên nào?",
+    "expected_answer": "Ưu tiên sinh viên là con liệt sĩ, thương binh, bệnh binh, sinh viên khuyết tật, sinh viên thuộc hộ nghèo/cận nghèo, sinh viên người dân tộc thiểu số và sinh viên vùng sâu vùng xa.",
+    "expected_context": "Đối tượng ưu tiên xét duyệt vào ở Ký túc xá: Con gia đình chính sách, con liệt sĩ, thương bệnh binh; sinh viên khuyết tật; sinh viên thuộc diện hộ nghèo, cận nghèo; người dân tộc thiểu số vùng có điều kiện kinh tế khó khăn."
+  }
+]
+
