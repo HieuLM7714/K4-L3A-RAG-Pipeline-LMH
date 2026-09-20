@@ -5,7 +5,7 @@
 - Họ và tên: Lê Minh Hiếu
 - Mã học viên: 2A202602848
 - GitHub: HieuLM7714
-- Nhóm / Đề tài: LMH - Quy chế đào tạo & Dịch vụ sinh viên đại học (Ký túc xá & Đào tạo ĐHQG-HCM)
+- Nhóm / Đề tài: LMH - Quy chế đào tạo & Dịch vụ sinh viên đại học 
 - Repository/branch: `HieuLM7714/K4-L3A-RAG-Pipeline-LMH` (main)
 
 ---
